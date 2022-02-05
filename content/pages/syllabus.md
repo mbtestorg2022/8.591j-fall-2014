@@ -44,43 +44,409 @@ Grading
 
 The course will have weekly problem sets (due at the end of each week), two midterms, and a final. The grading breakdown is as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 40% |
-| Pre-class reading questions | 5% |
-| Midterm 1 | 15% |
-| Midterm 2 | 15% |
-| Final Exam | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pre-class reading questions
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm 1
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm 2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to the class and overview of topics. Basic concepts in networks and chemical reactions. | &nbsp; |
-| 2 | Input function of a gene, Michaelis-Menten kinetics, and cooperativity | &nbsp; |
-| 3 | Autoregulation, feedback and bistability | Problem Set 1 due |
-| 4 | Introduction to synthetic biology and stability analysis in the toggle switch | &nbsp; |
-| 5 | Oscillatory genetic networks | Problem Set 2 due |
-| 6 | Graph properties of transcription networks | &nbsp; |
-| 7 | Feed-forward loop network motif | Problem Set 3 due |
-| 8 | Introduction to stochastic gene expression | &nbsp; |
-| 9 | Causes and consequences of stochastic gene expression | Problem Set 4 due |
-| 10 | Stochastic modeling—The master equation, Fokker-Planck Equation, and the Gillespie algorithm | &nbsp; |
-| 11 | Life at low Reynolds number | Problem Set 5 due |
-| 12 | Robustness and bacterial chemotaxis | &nbsp; |
-| &nbsp; | No Lecture | Midterm 1 |
-| 13 | Robustness in development and pattern formation | Problem Set 6 due |
-| 14 | Introduction to microbial evolution experiments, and optimal gene circuit design | &nbsp; |
-| 15 | Evolution in finite populations, genetic drift, and the theory of neutral molecular evolution | Problem Set 6 due |
-| 16 | Clonal interference and the distribution of beneficial mutations | &nbsp; |
-| 17 | Fitness landscapes and sequence spaces | Problem Set 7 due |
-| 18 | Evolutionary games | &nbsp; |
-| &nbsp; | No Lecture | Midterm 2 |
-| 19 | Survival in fluctuating environments | Problem Set 8 due |
-| 20 | Parasites, the evolution of virulence and sex | &nbsp; |
-| 21 | Interspecies interactions, the Lotka-Volterra model, and predator-prey oscillations | Problem Set 9 due |
-| 22 | Ecosystem stability, critical transitions, and the maintenance of biodiversity | &nbsp; |
-| 23 | Dynamics of populations in space | Problem Set 10 due |
-| 24 | The neutral theory of ecology | &nbsp; |
-| &nbsp; | Final Exam
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the class and overview of topics. Basic concepts in networks and chemical reactions.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Input function of a gene, Michaelis-Menten kinetics, and cooperativity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Autoregulation, feedback and bistability
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to synthetic biology and stability analysis in the toggle switch
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Oscillatory genetic networks
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Graph properties of transcription networks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Feed-forward loop network motif
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to stochastic gene expression
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Causes and consequences of stochastic gene expression
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Stochastic modeling—The master equation, Fokker-Planck Equation, and the Gillespie algorithm
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Life at low Reynolds number
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Robustness and bacterial chemotaxis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+No Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Robustness in development and pattern formation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to microbial evolution experiments, and optimal gene circuit design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution in finite populations, genetic drift, and the theory of neutral molecular evolution
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Clonal interference and the distribution of beneficial mutations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Fitness landscapes and sequence spaces
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Evolutionary games
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+No Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Survival in fluctuating environments
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Parasites, the evolution of virulence and sex
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Interspecies interactions, the Lotka-Volterra model, and predator-prey oscillations
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Ecosystem stability, critical transitions, and the maintenance of biodiversity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of populations in space
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+The neutral theory of ecology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
