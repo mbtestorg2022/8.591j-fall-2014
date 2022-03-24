@@ -120,7 +120,7 @@ Introduction to synthetic biology and stability analysis in the toggle switch
 
 Hasty, J., D. McMillen, et al. "[Engineered Gene Circuits](http://dx.doi.org/10.1038/nature01257)." _Nature_ 420 (2002): 224–30.
 
-Supplementary notes on ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stability Analysis (PDF)](http://web.mit.edu/biophysics/sbio/PDFs/L8_notes.pdf) written by Alexander van Oudenaarden.
+Supplementary notes on [Stability Analysis (PDF)](http://web.mit.edu/biophysics/sbio/PDFs/L8_notes.pdf) written by Alexander van Oudenaarden.
 
 ### Optional
 
@@ -250,7 +250,7 @@ Stochastic modeling—The master equation, Fokker-Planck Equation, and the Gille
 
 ### Required
 
-Supplementary notes on the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Master Equation and Fokker Plank Equation (PDF)](http://web.mit.edu/biophysics/sbio/PDFs/L13_notes.pdf), by Alexander van Oudenaarden.
+Supplementary notes on the [Master Equation and Fokker Plank Equation (PDF)](http://web.mit.edu/biophysics/sbio/PDFs/L13_notes.pdf), by Alexander van Oudenaarden.
 
 ### Optional
 
@@ -320,7 +320,7 @@ Robustness in development and pattern formation
 
 \[UA\] Chapter 8.
 
-Supplementary notes on ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fick's Law (PDF)](http://web.mit.edu/biophysics/sbio/PDFs/L15_notes.pdf) by Alexander van Oudenaarden.
+Supplementary notes on [Fick's Law (PDF)](http://web.mit.edu/biophysics/sbio/PDFs/L15_notes.pdf) by Alexander van Oudenaarden.
 
 Kondo, S., and T. Miura. "[Reaction-Diffusion Model as a Framework for Understanding Biological Pattern Formation](http://dx.doi.org/10.1126/science.1179047 )." _Science_ 329, no. 5999 (2010): 1616–20.
 
