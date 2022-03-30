@@ -45,10 +45,10 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [_Introductory Biology 7.012_](/courses/7-012-introduction-to-biology-fall-2004/)  
+*   [_Introductory Biology 7.012_](/courses/7-012-introduction-to-biology-fall-2004)  
     (Biology GIR ![](/images/educator/icon-question-gir.png))
-*   [_Differential Equations 18.03_](/courses/18-03sc-differential-equations-fall-2011/)
-*   [_Probability 18.05_](/courses/18-05-introduction-to-probability-and-statistics-spring-2014/)
+*   [_Differential Equations 18.03_](/courses/18-03sc-differential-equations-fall-2011)
+*   [_Probability 18.05_](/courses/18-05-introduction-to-probability-and-statistics-spring-2014)
 
 In addition, each weekly problem had a computational problem, so prior experience with a computational package such as MATLAB®, Mathematica®, or Python was expected. The “officially supported” package was be Python (sample code, etc), but students were able to do problems in any language.
 
